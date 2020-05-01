@@ -19,7 +19,7 @@ Predicting the age of abalone from physical measurements. The age of abalone is 
 - Modeling 
 - Evaluation
 - Fine tuning using GridSearchCV
--Conclusion
+- Conclusion
 <br>
 
 ## Libraries Required:
